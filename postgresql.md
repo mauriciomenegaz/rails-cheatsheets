@@ -20,4 +20,4 @@ Restore Local db from dump:
 
 Rename database
 
-```postgres=# alter database topkey_production rename to topkey_prod_dump;```
+```postgres=# alter database current_db_name rename to new_db_name;```
