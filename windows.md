@@ -1,15 +1,19 @@
 # Step by Step Dev Environment Setup (windows version)
 
-1) wsl (wsl --install)
+## 1) wsl (wsl --install)
  -> https://learn.microsoft.com/en-us/windows/wsl/setup/environment
 
-2) visual studio code
+## 2) visual studio code
 
-3) zsh
+## 3) zsh / ohmyzsh
 
-4) ohmyzsh
+- https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+- https://github.com/ohmyzsh/ohmyzsh
 
-5) rbenv (usando rbenv-installer(?))
+## 4) rbenv (usando rbenv-installer(?))
+
+- instalar dependências (https://github.com/rbenv/ruby-build/wiki) - suggested build environment
+- rbenv-installer: https://github.com/rbenv/rbenv-installer#rbenv-installer (using curl)
 
 6) postgresql
 - ver tutorial "windows wsl development environment"
