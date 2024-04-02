@@ -12,6 +12,12 @@ Nice to have
 
 - drawio - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
+## Other settings
+
+- After installing ruby LSP, disable diagnostics (by clicking on "{}" on the bottom bar)
+- 
+
+
 ## Links
 
 https://railsnotes.xyz/blog/vscode-rails-setup
