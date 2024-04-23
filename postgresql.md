@@ -1,5 +1,9 @@
 # PostgreSQL cheat sheet
 
+## Install / Config (linux)
+
+testing...
+
 ## Backup / Restore
 
 Dump Local db:
