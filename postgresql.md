@@ -2,7 +2,15 @@
 
 ## Install / Config (linux)
 
-testing...
+```
+sudo apt install postgresql postgresql-contrib
+
+sudo -u postgres psql template1
+ALTER USER postgres with encrypted password 'your_password';
+
+psql -U postgres -h localhost
+asked for password and it worked
+```
 
 ## Backup / Restore
 
