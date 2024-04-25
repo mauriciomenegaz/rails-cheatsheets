@@ -15,7 +15,7 @@
 - instalar dependências (https://github.com/rbenv/ruby-build/wiki) - suggested build environment
 - rbenv-installer: https://github.com/rbenv/rbenv-installer#rbenv-installer (using curl)
 
-6) postgresql
+## 6) postgresql
 - ver tutorial "windows wsl development environment"
   -> https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database
   -> https://www.atlassian.com/data/admin/how-to-set-the-default-user-password-in-postgresql
@@ -32,15 +32,15 @@ ALTER ROLE mauricio WITH superuser;
 ```
 
 
-7) node - install from node source
+## 7) node - install from node source
 
    https://github.com/nodesource/distributions
 
-8) yarn - usando o npm
+## 8) yarn - usando o npm
 
 ```sudo npm install --global yarn```
 
-9) redis - usando o  repositorio deles
+## 9) redis - usando o  repositorio deles
 
 
    https://redis.io/docs/install/install-redis/install-redis-on-windows/
