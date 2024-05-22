@@ -19,6 +19,7 @@ Nice to have
 - configure titlebar: Preferenches / search for "title" / enter this: ${dirty}[${rootName}]${separator}VS Code
 - tab close button on left ("workbench.editor.tabActionLocation": "left" on settings json)
 - do not move the directory tree when closing a file: "explorer.autoReveal": false
+- vertical ruler at 120 characters: "[ruby]": {"editor.rulers": [120]}
 
 
 ## Links
