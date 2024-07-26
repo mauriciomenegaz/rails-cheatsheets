@@ -43,6 +43,10 @@ Restore Local db from dump:
 
 `\dn` - List Schemas
 
+`\dt` - Describe table
+
+`\dt myschema.*` - List Tables in schema
+
 ## Admin commands
 
 Rename database
