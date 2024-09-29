@@ -16,6 +16,7 @@ psql -U postgres -h localhost
 
 add this line to pg_hba.conf:
 ```
+# TYPE  DATABASE        USER            ADDRESS                 METHOD
 local   all             mauricio        127.0.0.1/32            trust
 ```
 
