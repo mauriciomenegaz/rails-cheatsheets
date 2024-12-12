@@ -12,6 +12,19 @@ psql -U postgres -h localhost
 -> asked for password and it worked
 ```
 
+## Installing pgvector
+
+Add postgresql apt repository
+```
+sudo apt install -y postgresql-common
+sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+```
+
+Install:
+```
+sudo apt install postgresql-14-pgvector
+```
+
 ## Allow local user to login without password (trust authentication)
 
 add this line to pg_hba.conf:
