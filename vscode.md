@@ -26,3 +26,7 @@ Nice to have
 ## Links
 
 https://railsnotes.xyz/blog/vscode-rails-setup
+
+## Keyboard shortcuts
+
+- **Next / Previous Tab:** Control + PgUp / Control + PgDn
