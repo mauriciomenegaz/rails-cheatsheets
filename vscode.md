@@ -30,3 +30,4 @@ https://railsnotes.xyz/blog/vscode-rails-setup
 ## Keyboard shortcuts
 
 - **Next / Previous Tab:** Control + PgUp / Control + PgDn
+- **Scroll Down / Up:** Control + Arrow Keys
