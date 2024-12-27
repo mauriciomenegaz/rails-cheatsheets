@@ -47,6 +47,10 @@ Dump Local db:
 
 ```pg_dump -h localhost -d database_name -f filename.bkp -Fc```
 
+Dump heroku db:
+
+```pg_dump -Fc --no-acl --no-owner --exclude-table=public.table_to_exclude heroku_database_url > my_dump.dmp```
+
 Restore Local db from dump:
 
 ```pg_restore -h localhost -d database_name -C --no-owner filename.bkp```
