@@ -3,3 +3,5 @@
 [Testing anti-pattern: merged setup data - Code with Jason](https://www.codewithjason.com/testing-anti-pattern-merged-setup-data/)
 
 [Async IO in Python](https://realpython.com/async-io-python/)
+
+[Orchestrating Agents: Routines and Handoffs](https://cookbook.openai.com/examples/orchestrating_agents)
