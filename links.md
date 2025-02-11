@@ -5,3 +5,5 @@
 [Async IO in Python](https://realpython.com/async-io-python/)
 
 [Orchestrating Agents: Routines and Handoffs](https://cookbook.openai.com/examples/orchestrating_agents)
+
+[Sending Web Push Notifications from Rails](https://joyofrails.com/articles/web-push-notifications-from-rails)
