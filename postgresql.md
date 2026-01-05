@@ -57,9 +57,11 @@ Restore Local db from dump:
 
 ## Meta Commands
 
-`\d` - List Databases
+`\l` - List Databases
 
 `\dn` - List Schemas
+
+`\d` - List Tables
 
 `\dt` - Describe table
 
