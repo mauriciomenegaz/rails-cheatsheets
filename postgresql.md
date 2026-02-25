@@ -28,11 +28,11 @@ sudo apt install postgresql-14-pgvector
 In case the db is running inside a docker container (omarchyy docker-db):
 
 ```
-doker exec -it postgres17 bash
+docker exec -it postgres17 bash
 apt-get update & apt-get install -y postgresql-17-pgvector
 
 psql -U postgres -h localhost
-postgres=# create extension vector
+postgres=# create extension vector;
 \q
 
 
