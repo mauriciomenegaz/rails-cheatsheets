@@ -28,7 +28,7 @@ https://stanko.io/adding-mcp-to-a-rails-app-NG9zkX3dyPq1
 
 https://cookbook.openai.com/examples/orchestrating_agents
 
-https://joyofrails.com/articles/web-push-notifications-from-rails
+[Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering - beamnxw](https://x.com/beamnxw/article/2081022966645535079)
 
 ## Other
 
